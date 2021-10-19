@@ -1,0 +1,92 @@
+<Tables>
+
+	<Table>
+		<name>RunCasse</name>
+		<column>
+			<name>iD</name>
+			<dataType>int</dataType>
+			<isPK>true</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias></alias>
+			<number>0</number>
+		</column>
+		<column>
+			<name>orderCode</name>
+			<dataType>nvarchar</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>Order Code</alias>
+			<number>1</number>
+		</column>
+		<column>
+			<name>pID</name>
+			<dataType>nvarchar</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>P</alias>
+			<number>2</number>
+		</column>
+		<column>
+			<name>creatDate</name>
+			<dataType>datetime</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>Creat Date</alias>
+			<number>3</number>
+		</column>
+	</Table>
+
+	<Table>
+		<name>RunMotor</name>
+		<column>
+			<name>iD</name>
+			<dataType>int</dataType>
+			<isPK>true</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias></alias>
+			<number>0</number>
+		</column>
+		<column>
+			<name>orderCode</name>
+			<dataType>nvarchar</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>Order Code</alias>
+			<number>1</number>
+		</column>
+		<column>
+			<name>pID</name>
+			<dataType>nvarchar</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>P</alias>
+			<number>2</number>
+		</column>
+		<column>
+			<name>creatDate</name>
+			<dataType>datetime</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>Creat Date</alias>
+			<number>3</number>
+		</column>
+	</Table>
+
+</Tables>
+

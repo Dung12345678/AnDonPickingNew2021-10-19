@@ -1,0 +1,6 @@
+10:25:09:LoadAndon(): System.Threading.ThreadAbortException: Thread was being aborted.
+   at BMS.Business.BaseBO.GetListObject(String procedureName, String[] paramName, Object[] paramValue) in D:\project\Sumitomo\Line\Hyponic\AnDonPicking\AnDonPicking-2021-03-10 - Time - Copy - Copy\BaseBusiness\BO\BaseBO.cs:line 587
+   at BMS.frmAnDonPicking.LoadAndon() in D:\project\Sumitomo\Line\Hyponic\AnDonPicking\AnDonPicking-2021-03-10 - Time - Copy - Copy\Forms\PickingTime\frmAnDonPicking.cs:line 1141
+11:36:32:LoadAndon(): System.Threading.ThreadAbortException: Thread was being aborted.
+   at BMS.Business.BaseBO.GetListObject(String procedureName, String[] paramName, Object[] paramValue) in D:\project\Sumitomo\Line\Hyponic\AnDonPicking\AnDonPicking-2021-03-10 - Time - Copy - Copy\BaseBusiness\BO\BaseBO.cs:line 587
+   at BMS.frmAnDonPicking.LoadAndon() in D:\project\Sumitomo\Line\Hyponic\AnDonPicking\AnDonPicking-2021-03-10 - Time - Copy - Copy\Forms\PickingTime\frmAnDonPicking.cs:line 1148
